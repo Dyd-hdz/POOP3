@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"com.mycompany.practica03","l":"Agenda"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.mycompany.practica03","l":"Diccionario"},{"p":"com.mycompany.practica03","l":"Practica03"}];updateSearchResults();
